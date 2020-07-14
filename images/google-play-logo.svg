@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210" height="72" viewBox="0 0 210 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="210" height="72" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.908" y1="1.032" x2="-0.383" y2="0.36" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00a0ff"/>
+      <stop offset="0.007" stop-color="#00a1ff"/>
+      <stop offset="0.26" stop-color="#00beff"/>
+      <stop offset="0.512" stop-color="#00d2ff"/>
+      <stop offset="0.76" stop-color="#00dfff"/>
+      <stop offset="1" stop-color="#00e3ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1.077" y1="0.729" x2="-1.307" y2="0.729" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffe000"/>
+      <stop offset="0.409" stop-color="#ffbd00"/>
+      <stop offset="0.775" stop-color="orange"/>
+      <stop offset="1" stop-color="#ff9c00"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.864" y1="-0.023" x2="-0.499" y2="-1.789" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff3a44"/>
+      <stop offset="1" stop-color="#c31162"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="-0.186" y1="2.701" x2="0.423" y2="1.909" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#32a071"/>
+      <stop offset="0.069" stop-color="#2da771"/>
+      <stop offset="0.476" stop-color="#15cf74"/>
+      <stop offset="0.801" stop-color="#06e775"/>
+      <stop offset="1" stop-color="#00f076"/>
+    </linearGradient>
+  </defs>
+  <g id="Component_1" data-name="Component 1" clip-path="url(#clip-path)">
+    <rect id="Rectangle_381" data-name="Rectangle 381" width="210" height="72" rx="4"/>
+    <text id="Google_Play" data-name="Google Play" transform="translate(69 43)" fill="#fff" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Google Play</tspan></text>
+    <g id="Group_758" data-name="Group 758" transform="translate(11.936 14.812)">
+      <path id="Path_311" data-name="Path 311" d="M10.437,7.5A2.135,2.135,0,0,0,10,9.029v24.14a2.161,2.161,0,0,0,.546,1.529l.109.109L24.2,21.263v-.218Z" transform="translate(0 0.033)" fill="url(#linear-gradient)"/>
+      <path id="Path_312" data-name="Path 312" d="M27.378,25.085,22.9,20.606v-.328L27.378,15.8l.109.109,5.352,3.058c1.529.874,1.529,2.294,0,3.168Z" transform="translate(1.191 0.799)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_313" data-name="Path 313" d="M28.641,24.588,24.054,20,10.4,33.654c.546.546,1.311.546,2.294.109l15.948-9.175" transform="translate(0.037 1.186)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_314" data-name="Path 314" d="M28.641,16.6,12.694,7.53A1.77,1.77,0,0,0,10.4,7.64L24.054,21.184,28.641,16.6Z" transform="translate(0.037 0.002)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_315" data-name="Path 315" d="M28.532,24.1,12.694,33.057a1.786,1.786,0,0,1-2.185,0l-.109.109.109.109a1.786,1.786,0,0,0,2.185,0Z" transform="translate(0.037 1.565)" opacity="0.2"/>
+      <path id="Path_316" data-name="Path 316" d="M10.437,33.435A2.135,2.135,0,0,1,10,31.906v.109a2.161,2.161,0,0,0,.546,1.529v-.109h-.109ZM34.031,21.42l-5.462,3.058.109.109,5.352-3.058A1.816,1.816,0,0,0,35.123,20C35.123,20.546,34.686,20.983,34.031,21.42Z" transform="translate(0 1.186)" opacity="0.12"/>
+      <path id="Path_317" data-name="Path 317" d="M12.731,7.642l21.3,12.125c.655.437,1.092.874,1.092,1.42a1.816,1.816,0,0,0-1.092-1.529L12.731,7.533C11.2,6.659,10,7.314,10,9.062v.109C10,7.533,11.2,6.768,12.731,7.642Z" fill="#fff" opacity="0.25"/>
+    </g>
+  </g>
+</svg>

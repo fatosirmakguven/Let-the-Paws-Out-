@@ -1,0 +1,36 @@
+.footerWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.footerContainer{
+    max-width: 1440px;
+    padding-top:80px;
+    padding-bottom:50px;
+    width: 90%;
+    display: flex;
+    margin-bottom: 32px;
+    justify-content: space-between;
+    border-top: 1px solid var(--smoke);
+}
+
+.social ul, li{
+    display: inline-block;
+}
+
+.social li{
+    margin-right: 16px;
+    color: var(--black);
+}
+
+li:nth-child(1){
+    font-weight: 600;
+    color: var(--steel);
+}
+
+span{
+    color: var(--purple);
+    
+}
